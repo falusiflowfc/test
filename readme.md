@@ -11,3 +11,14 @@ git push -u origin main # a fejlesztési ág feltöltése első alkalommal
 git remote add origin https://github.com/falusiflowfc/test.git
 git branch -M main
 git push -u origin main
+
+További terminál parancsok:
+git pull origin main # a friss repo letöltése
+git remote -v #aktuális távoli repo lekérdezése
+git status # change , stage, commit állapotának lekérdezése
+git  config --global --list #globális beállítások listázása
+cd #ChangeDirectory
+cd.. #egy mappával felljebb lép
+mkdir <directory name> #make directory
+rmdir <directory name> #remove directory
+  ls #list - könyvtár listázása
